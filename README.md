@@ -5,7 +5,7 @@ This project demonstrates database design (3NF), SQL schema implementation, data
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 - Designed and implemented a **relational database** from raw CSV files (`Orders.csv`, `RestaurantInfo.csv`)
 - Built an **Entity Relationship Diagram (ERD)** with Crow’s Foot notation
 - Normalized the database design into **Third Normal Form (3NF)**
@@ -20,22 +20,22 @@ This project demonstrates database design (3NF), SQL schema implementation, data
 
 ---
 
-## 🗂 Repository Structure
-- `report/` – Project report (database design, data cleaning, SQL schema, screenshots)
+## Repository Structure
+- `report/` – Project report (database design, data cleaning, SQL schema)
 - `code/` – Jupyter notebook with Python + SQLAlchemy scripts
 - `data/` – Cleaned CSVs and SQLite database
 - `diagrams/` – ER diagram and GUI screenshots
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 - **Python** (pandas, sqlite3, SQLAlchemy, matplotlib, tkinter)
 - **SQLite** relational database
 - **draw.io** for ER diagrams
 
 ---
 
-## 💡 Key Skills Demonstrated
+## Key Skills Demonstrated
 - Relational database design & normalization (3NF)
 - SQL schema design with primary/foreign keys
 - Python for database ETL pipelines
@@ -44,4 +44,4 @@ This project demonstrates database design (3NF), SQL schema implementation, data
 
 ---
 
-📌 *This project was originally developed as part of an academic assignment but is presented here as a professional portfolio project to demonstrate my skills for quantitative finance internships (e.g., J.P. Morgan Quantitative Research & Trading programs).*
+ *This project was originally developed as part of an academic assignment but is presented here as a professional portfolio project to demonstrate my skills for quantitative finance internships.*
